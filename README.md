@@ -1,4 +1,5 @@
-# US-Presidential-Candidate-Prediction
+# campaign-lexicon
+
 The primary question our analytics attempts to answer is this: What kind of pattern in the language of a speech
 predicts whether a US presidential candidate will win or lose an election? There are three specific goals we address while answering
 this question. Our goals are:
